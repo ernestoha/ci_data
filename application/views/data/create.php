@@ -15,7 +15,7 @@
 							</div>
 						</div>						
 						<div class="form-group">
-							<label for="birthday" class="col-md-3 col-sm-4 control-label">DOF (YYYY-MM-DD)</label>
+							<label for="birthday" class="col-md-3 col-sm-4 control-label">DOB (YYYY-MM-DD)</label>
 							<div class="col-md-9 col-sm-8">
 								<input type="text" name="birthday" id="birthday" class="form-control" />
 							</div>
